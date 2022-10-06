@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'm currently working on Container Deployment 
-
+Computer science engineering student at ENSI 💻
+Devops&Cloud Enthusiastic ☁️ 
+Looking for and an end-of-studies internship 🔎
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syndafhal) 
