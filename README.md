@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer science engineering student at ENSI  💻<br>DevOps&Cloud Enthusiasit ☁️ <br>Looking for and an end-of-studies internship  🔎
+Computer science engineering student at ENSI  💻<br>DevOps&Cloud Enthusiast ☁️ <br>Looking for and an end-of-studies internship  🔎
 
 
 ## 🌐 Socials:
